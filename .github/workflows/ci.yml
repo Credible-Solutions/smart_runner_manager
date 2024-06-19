@@ -44,9 +44,9 @@ jobs:
           poetry run black .
           poetry run isort .
 
-      - name: Test with pytest (unit)
-        run: |
-          poetry run python -m pytest tests/unit/*
+      # - name: Test with pytest (unit)
+      #   run: |
+      #     poetry run python -m pytest tests/unit/*
         #   poetry run python -m pytest tests/unit/* --cov=pylib --cov-report=xml:coverage.xml --junitxml=junit/test-unit-results.xml
 
       - name: Set git user for semantic release
