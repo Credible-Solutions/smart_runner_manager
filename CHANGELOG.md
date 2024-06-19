@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## v0.2.0 (2024-06-19)
+
+### Unknown
+
+* Merge pull request #1 from Credible-Solutions/feat/pipeline
+
+Feat/pipeline ([`d0d55a6`](https://github.com/Credible-Solutions/smart_runner_manager/commit/d0d55a6a7fc34b24aa3740fe3eff0668403769cf))
+
 ## v0.2.0-beta.1 (2024-06-19)
 
 ### Feature
