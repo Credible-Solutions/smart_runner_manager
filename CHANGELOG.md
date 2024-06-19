@@ -1,5 +1,17 @@
 # CHANGELOG
 
+## v0.2.1 (2024-06-19)
+
+### Fix
+
+* fix: adding test cases ([`f47f664`](https://github.com/Credible-Solutions/smart_runner_manager/commit/f47f664a87b9e86336852c15e57510d355efbb99))
+
+### Unknown
+
+* Merge pull request #2 from Credible-Solutions/feat/coder
+
+fix: adding test cases ([`d08c444`](https://github.com/Credible-Solutions/smart_runner_manager/commit/d08c44492d55b66e2dd1f7f1eb9c830abb1b8582))
+
 ## v0.2.0 (2024-06-19)
 
 ### Unknown
